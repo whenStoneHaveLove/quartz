@@ -1,6 +1,38 @@
 ---
-title: Welcome to Quartz
+title: 首页
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+嘿，陌生的朋友 👋
+
+这是我的小角落，写点代码笔记、读书心得，还有各种踩坑经历。不追求体系化，想到哪写到哪。
+
+觉得有用就拿走，觉得不对就留言怼我。
+
+---
+
+### 翻笔记
+
+🗂 [编程笔记 →](/编程)
+🗂 [读书笔记→](/读书)
+
+🗂 [AI学习笔记→](/AI学习笔记)
+
+🏷 [按标签翻 →](/tags)
+
+---
+
+### 找我聊
+
+📧 `271685435@qq.com`
+
+💬 每篇文章底下都能直接评论，不用注册不用登录，GitHub 账号就行。
+
+---
+
+或者直接微信扫码：
+
+![微信](/images/wechat-qr.png)
+
+---
+
+搭这个站没花一分钱。用的 [Quartz](https://quartz.jzhao.xyz)，扔在 GitHub Pages 上，域名是 [21c.top](https://www.21c.top)。纯文字，没广告，跑得快。
